@@ -61,70 +61,88 @@ Green Mart is a mobile application designed for an online shopping platform, int
 ## 📷 Screenshots
 
 **Login Page of the Mobile App**
-![Image](https://github.com/user-attachments/assets/0f40aa35-b8e3-430d-abe4-8bacdc292f1a)
+![Image](https://github.com/user-attachments/assets/8471bd42-4359-47a7-84ab-307d50d01de1)
 
 
 **Sign Up Page of the Mobile App**
-![Image](https://github.com/user-attachments/assets/4ac6ba10-aa1e-4d1b-8adc-5c74269ab035)
+![Image](https://github.com/user-attachments/assets/81dbe8f7-7f4a-4da1-8f58-347b90e0ae77)
 
 
 **Forgot Password Page of the Mobile App**
-![Image](https://github.com/user-attachments/assets/b88d9583-b4fa-4f98-b5b6-6b7cf1163408)
+![Image](https://github.com/user-attachments/assets/c872bb5f-9b93-4ceb-8f89-be37258ae1f3)
 
 
 **Home Page of the Mobile App**
-![Image](https://github.com/user-attachments/assets/7972fcb7-7e20-4aa3-abdd-47234c44b937)
+![Image](https://github.com/user-attachments/assets/f57c34a8-3c02-47e8-b316-84e31b3f5b0a)
+
 
 **Home Page of the Mobile App**
-![Image](https://github.com/user-attachments/assets/222bd86c-f305-4046-83b4-38588f6bb641)
+![Image](https://github.com/user-attachments/assets/3f3b0575-e6aa-408b-bea6-15236726025a)
+
 
 **Profile Page of the Mobile App**
-![Image](https://github.com/user-attachments/assets/493ca604-de19-405f-a68a-a3ee726bb2b0)
+![Image](https://github.com/user-attachments/assets/e51d655d-aea0-4d44-a57c-e7a42c611838)
+
 
 **Cart Page of the Mobile App**
-![Image](https://github.com/user-attachments/assets/f8811f89-a38a-4f7f-8626-70a5ee8759fa)
+![Image](https://github.com/user-attachments/assets/c83ed645-5eac-4387-a66f-5f8fa3d460c6)
+
 
 **Menu Page of the Mobile App**
-![Image](https://github.com/user-attachments/assets/fddece9b-6c4e-4612-b693-e3caf8e86438)
+
+![Image](https://github.com/user-attachments/assets/90a674e6-1de4-4e40-9911-f2d5fc7c18ee)
+
 
 **Side Navigation Bar of the Mobile App**
-![Image](https://github.com/user-attachments/assets/e1fb77b3-2e85-41cd-99e3-90ba4b1b7994)
+![Image](https://github.com/user-attachments/assets/4e0ce377-00ea-44b7-85b6-ca1c3c8f2763)
+
 
 **Beverage Category of the Mobile App**
-![Image](https://github.com/user-attachments/assets/ead76d7c-e095-4471-b4d3-944f07e1f3fb)
+![Image](https://github.com/user-attachments/assets/8dd35d4e-eda6-40d2-88b6-3074321ec696)
+
 
 **Diary Category of the Mobile App**
-![Image](https://github.com/user-attachments/assets/c1acc103-b142-4260-904e-b3ccd95a4289)
+![Image](https://github.com/user-attachments/assets/49f8d130-4a1c-4193-b78a-f315db11cd8c)
+
 
 **Pharmacy Category of the Mobile App**
-![Image](https://github.com/user-attachments/assets/a0ff3d4e-9885-488a-abcf-70a08b8bf23a)
+![Image](https://github.com/user-attachments/assets/549cd9f6-c2b4-4caa-a968-13b028387062)
+
 
 **Bakery Category of the Mobile App**
-![Image](https://github.com/user-attachments/assets/997115a7-21b6-4a38-8007-a10d3d481463)
+![Image](https://github.com/user-attachments/assets/f85d66be-6d06-47d5-9d73-75e02e9d2036)
+
 
 **Care Category of the Mobile App**
-![Image](https://github.com/user-attachments/assets/8bf21689-b38a-47ba-a119-9c50766137d9)
+![Image](https://github.com/user-attachments/assets/0e4656a6-81d1-4d47-b7f5-3caedff9524e)
+
 
 **Biscuits Category of the Mobile App**
-![Image](https://github.com/user-attachments/assets/1a621034-b673-457c-b0d5-9177887159f0)
+![Image](https://github.com/user-attachments/assets/bc0800dc-9563-4d98-97d6-976447ab5b1e)
+
 
 **Fruits Category of the Mobile App**
-![Image](https://github.com/user-attachments/assets/6d8182b2-0d76-4fac-be15-d62675e0583b)
+![Image](https://github.com/user-attachments/assets/aa2cf827-c0ab-41e7-9c42-93df2a6cb168)
+
 
 **Vegetables Category of the Mobile App**
-![Image](https://github.com/user-attachments/assets/d9f5c0d1-14d9-4bff-ba90-30e08ad0e71c)
+![Image](https://github.com/user-attachments/assets/e1bec7c4-d3e1-4389-9ee2-85a86c226650)
+
 
 **Tools Page of the Mobile App**
-![Image](https://github.com/user-attachments/assets/8511a002-cf26-4408-9b07-59272940fbfe)
+![Image](https://github.com/user-attachments/assets/940d12e6-5b7b-49b4-9d80-fc102e8aa292)
+
 
 **OCR Scanner Page of the Mobile App**
-![Image](https://github.com/user-attachments/assets/074a768a-0819-43a0-8f2d-f7134a41ccab)
+![Image](https://github.com/user-attachments/assets/22dc6b1c-5046-4703-8ddb-6e46f1c3cfe4)
+
 
 **Language Translator Page of the Mobile App**
-![Image](https://github.com/user-attachments/assets/4330e07e-2227-4b5c-9dba-b0c16f53ef09)
+![Image](https://github.com/user-attachments/assets/61f2b2d0-0f93-403a-ab65-613f2d606998)
+
 
 **Green Assistant Page of the Mobile App**
-![Image](https://github.com/user-attachments/assets/d0a842a9-c87b-4935-a875-b8e84e080991)
+![Image](https://github.com/user-attachments/assets/d57f2b29-12e4-4166-bcfa-4b5760186f30)
 
 
 ### 📌 License
