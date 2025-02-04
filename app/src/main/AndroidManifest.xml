@@ -20,7 +20,7 @@
         android:theme="@style/Theme.GreenMart"
         tools:targetApi="31">
         <activity
-            android:name=".ForgotPassword"
+            android:name=".ForgotPasswordActivity"
             android:exported="false"
             android:windowSoftInputMode="adjustPan" />
         <activity
